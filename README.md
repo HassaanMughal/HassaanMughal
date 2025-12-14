@@ -84,4 +84,9 @@ Closing
 -------
 I focus on building practical ML systems and elegant mobile experiences. If you'd like to collaborate, review a project, or discuss opportunities, please feel free to reach out to me via LinkedIn.
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HassaanMughal/HassaanMughal/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+</p>
+
 _Last updated: 2025-12-14_
