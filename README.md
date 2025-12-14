@@ -61,7 +61,7 @@ Experience & Contributions
 
 Education
 ---------
-- [Bachelor of Science (Honours) in Computer Science | Government College University, Lahore]
+- Bachelor of Science (Honours) in Computer Science | Government College University, Lahore
 
 Contact
 -------
